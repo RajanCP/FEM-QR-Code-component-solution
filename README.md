@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:([https://your-solution-url.com](https://rajancp.github.io/FEM-QR-Code-component-solution/))
+- Solution URL:(https://rajancp.github.io/FEM-QR-Code-component-solution/)
 
 ### My process
 Started with the basic foundation - including text and images.
