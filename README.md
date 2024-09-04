@@ -32,8 +32,8 @@ Moved onto css, adjusting html as necessary.
 
 ### Continued development
 
-Deepen understand of CSS Flexbox
-Ensure html/css is written "semantically correct" and in a clear layout
+- Deepen understand of CSS Flexbox.
+- Ensure html/css is written "semantically correct" and in a clear layout
 
 ## Author
 
